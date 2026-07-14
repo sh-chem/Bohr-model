@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 원자 전자 배치 시뮬레이션",
+  "description": "원소의 양성자 수와 전자 배치를 시각적으로 탐구하고 원자가 전자의 의미를 학습하는 과학 시뮬레이션 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
